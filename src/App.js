@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Come On!
+          Join Us
         </a>
       </header>
     </div>
